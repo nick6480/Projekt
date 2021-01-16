@@ -11,6 +11,6 @@ function createBtn() {
   document.body.appendChild(btn);
 }
 
-
+ 
 randomColor();
 createBtn();
